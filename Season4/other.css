@@ -1,4 +1,4 @@
-. Heading{
+.Heading{
     text-align: centerw;
     font-size: 15px;
     padding-bottom: 50;
@@ -18,7 +18,7 @@ h1{
     text-align: center;
 }
 
-. button  a{
+.button  a{
     text-decoration: none;
     color:white;
     font-family:Arial, Helvetica, sans-serif;
@@ -28,13 +28,13 @@ h1{
     border-radius: 20px;
 }
 
-. button  a:hover{
+.button  a:hover{
     background-image: linear-gradient(red,orange);
     color:blue;
     border-color: black;
 }
 
-. megaleech{
+.megaleech{
     background-color: red;
     background-size: 35px 35px;
     background-image:
@@ -45,19 +45,19 @@ h1{
         )
 }
 
-. Robostus {
+.Robostus {
     padding: 0;
     background-color: transparent;
     background-image: radial-gradient(farthest-corner, black 60%, transparent 60%);
 }
 
-. RoboEyes {
+.RoboEyes {
     padding: 0;
     background-color: transparent;
     background-image: radial-gradient(farthest-corner, red 56%, transparent 56%);    
 }
 
-. RoboBody {
+.RoboBody {
     background-color: red;
     background-image: linear-gradient(
         180deg, lime 10%, lime 10%, lime 45%, black 45%, black 45%, black 45%,
@@ -65,7 +65,7 @@ h1{
     );
 }
 
-. RoboEyes1{
+.RoboEyes1{
     position: absolute;
     top: 250px;
     right: 200px;
@@ -75,7 +75,7 @@ h1{
     border-radius: 25px 25px 100px 100px;
 }
 
-. RoboEyes2{
+.RoboEyes2{
     position: absolute;
     top: 250px;
     right: 970px;
@@ -117,14 +117,14 @@ h1{
     -webkit-text-stroke: .5px goldenrod;
 }
 
-. Collector {
+.Collector {
     background-image: linear-gradient(
         25.5deg, transparent 10%, transparent 10%, transparent 45%, lavender 45%, lavender 45%, lavender 45%,
         lavender 57%, lavender 27%, lavender 27%, black 27%, black 100%
     );
 }
 
-. Ipad {
+.Ipad {
     background-image: linear-gradient(
         152.6deg, transparent 10%, transparent 10%, transparent 45%, lavender 45%, lavender 45%, lavender 45%,
         lavender 57%, lavender 27%, lavender 27%, red 27%, red 100%
