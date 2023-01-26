@@ -1,0 +1,128 @@
+.Heading{
+    text-align: centerw;
+    font-size: 15px;
+    padding-bottom: 50;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+.button a{
+    text-decoration: none;
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(blue,purple);
+    border-color: rgb(61, 61, 61);
+    border-style: solid;
+    border-radius: 20px;
+}
+
+.button a:hover{
+    background-image: linear-gradient(red,orange);
+    color:blue;
+    border-color: black;
+}
+
+.megaleech{
+    background-color: red;
+    background-size: 35px 35px;
+    background-image:
+        radial-gradient(
+            transparent 5px, white 5px, white 8px, 
+            blue 8px, blue 10px,
+            cornflowerblue 10px, cornflowerblue 15px
+        )
+}
+
+.Robostus {
+    padding: 0;
+    background-color: transparent;
+    background-image: radial-gradient(farthest-corner, black 60%, transparent 60%);
+}
+
+.RoboEyes {
+    padding: 0;
+    background-color: transparent;
+    background-image: radial-gradient(farthest-corner, red 56%, transparent 56%);    
+}
+
+.RoboBody {
+    background-color: red;
+    background-image: linear-gradient(
+        180deg, lime 10%, lime 10%, lime 45%, black 45%, black 45%, black 45%,
+        black 57%, black 27%, black 27%, transparent 27%, transparent 100%
+    );
+}
+
+.RoboEyes1{
+    position: absolute;
+    top: 250px;
+    right: 200px;
+    background-color: lime;
+    width: 100px;
+    height: 100px;
+    border-radius: 25px 25px 100px 100px;
+}
+
+.RoboEyes2{
+    position: absolute;
+    top: 250px;
+    right: 970px;
+    background-color: lime;
+    width: 100px;
+    height: 100px;
+    border-radius: 25px 25px 100px 100px;
+}
+
+.Gabrielagreste{
+    background-color:rgb(25, 25, 25);
+    padding: 0;
+    margin: 0;
+    background-image: repeating-linear-gradient(
+        45deg,
+        rgb(50,50,50) 0,
+        rgb(50,50,50) 20px,
+        transparent 20px,
+        transparent 40px
+    );
+}
+
+.Malediktator {
+    background: transparent;
+    background: linear-gradient(
+        45deg, transparent 10%, transparent 10%, transparent 32%, red 32%, red 45%, white 45%,
+        white 57%, blue 27%, blue 69%, transparent 69%, transparent 100%
+    );
+}
+
+.Malediktator h1 {
+    background: linear-gradient(
+        to bottom, red 32%, red 32%, red 35%, 
+        white 35%, white 67%, white 47%, 
+        blue 47%, blue, blue 55%
+    );
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-stroke: .5px goldenrod;
+}
+
+.Collector {
+    background-image: linear-gradient(
+        25.5deg, transparent 10%, transparent 10%, transparent 45%, lavender 45%, lavender 45%, lavender 45%,
+        lavender 57%, lavender 27%, lavender 27%, black 27%, black 100%
+    );
+}
+
+.Ipad {
+    background-image: linear-gradient(
+        152.6deg, transparent 10%, transparent 10%, transparent 45%, lavender 45%, lavender 45%, lavender 45%,
+        lavender 57%, lavender 27%, lavender 27%, red 27%, red 100%
+    );
+}
+
+
+
+
+
