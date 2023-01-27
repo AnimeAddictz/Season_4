@@ -48,7 +48,7 @@ h1{
 .Robostus {
     padding: 0;
     background-color: transparent;
-    background-image: radial-gradient(farthest-corner, black 60%, transparent 60%);
+    background-image: radial-gradient(black 60%, transparent 60%);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -60,7 +60,7 @@ h1{
 .RoboEyes {
     padding: 0;
     background-color: transparent;
-    background-image: radial-gradient(farthest-corner, red 56%, transparent 56%);
+    background-image: radial-gradient(red 56%, transparent 56%);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
