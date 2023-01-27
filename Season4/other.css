@@ -86,7 +86,7 @@ h1{
 .RoboEyes1{
     position: absolute;
     top: 250px;
-    right: 25%;
+    right: 35%;
     background-color: lime;
     width: 100px;
     height: 100px;
@@ -96,7 +96,7 @@ h1{
 .RoboEyes2{
     position: absolute;
     top: 250px;
-    right: 85%;
+    right: 95%;
     background-color: lime;
     width: 100px;
     height: 100px;
