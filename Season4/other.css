@@ -4,15 +4,6 @@
     padding-bottom: 50;
 }
 
-.body{
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-attachment: fixed;
-    height: 100%;
-    z-index: 1;
-}
-
 h1{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
